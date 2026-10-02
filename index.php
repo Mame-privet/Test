@@ -6,8 +6,9 @@
     <title>Главная страница</title>
 </head>
 <body>
+    <h1>11111</h1>
 <?php
-<h1>11111</h1>
+
 require "config.php";
 ?>
 <form method="post">
