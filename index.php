@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>11111</h1>
+    <h1>11111</h1>
 <?php
 
 require "config.php";
